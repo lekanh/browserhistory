@@ -13,3 +13,36 @@ img {
   float: left;
   margin-right: 10px
 }
+
+.left {
+  float: left;
+  width: 300px;
+  padding: 1em;
+}
+
+.right {
+  float: right;
+  width: 300px;
+  padding: 1em;
+}
+
+.center {
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 1em;
+}
+
+#bar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#bar li {
+  display: inline;
+}
+
+#bar a {
+  margin-left: 70px;
+  margin-right: 70px;
+}
